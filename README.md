@@ -1,7 +1,7 @@
-#Youtube-concept-учебный проект Glo Academy
+# YouTube-concept-учебный проект Glo Academy
 Проект выполнила Ларионова Виктория
 
-##Используемые технологии
+## Используемые технологии
 -HTML
 -CSS
 -Normalize.css
