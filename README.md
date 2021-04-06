@@ -2,7 +2,7 @@
 Проект выполнила Ларионова Виктория
 
 ## Используемые технологии
--HTML
--CSS
--Normalize.css
--SVG Sprites
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprites
